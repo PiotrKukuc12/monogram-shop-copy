@@ -1,0 +1,76 @@
+.hero-container {
+  height: 685px;
+}
+
+.hero-image {
+  background-image: url('images/herobackground.png');
+  height: 100%;
+  width: 100%;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.hero-text {
+  text-align: left;
+  position: absolute;
+  top: 50%;
+  left: 72%;
+  transform: translate(-50%, -50%);
+  color: rgb(9, 9, 94);
+}
+
+.hero-text h1 {
+  font-size: 2.5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-bottom: 4px;
+  letter-spacing: 4px;
+}
+
+.hero-text p {
+  font-size: 1.2rem;
+  color: rgb(62, 62, 129);
+}
+
+.middle-stopper {
+  margin: 100px 0px;
+}
+
+.hero-middler-container {
+  height: 500px;
+}
+
+.middle-image {
+  background-image: url(https://monogramcc.com/static/fb6b98aa90bbce383e12a09c50936e96/8120f/shop-banner-module.webp);
+  height: 100%;
+  width: 100%;
+  background-position: 50% 85%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.middle-text {
+    position: absolute;
+    text-align: center;
+    top: 16%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(9, 9, 94);
+}
+
+.middle-text h1{
+    letter-spacing: 5px;
+    font-size: 2.2rem;
+    font-weight: 700;
+}
+
+.loading{
+    margin-top: 400px;
+    margin-bottom: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

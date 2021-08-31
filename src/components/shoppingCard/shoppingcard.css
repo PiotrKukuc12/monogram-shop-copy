@@ -1,0 +1,85 @@
+.shop-card {
+  height: 100vh;
+  position: relative;
+}
+
+.shop-card h3,
+.shop-card p,
+.shop-card .but {
+  margin: 0;
+  padding: 0;
+}
+
+.shop-card .shop-header {
+  background-color: rgb(26, 36, 86);
+  width: 350px;
+  height: 74px;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.shop-card .shop-header h2 {
+  margin: 0;
+  padding: 0;
+  font-size: 1.3rem;
+  color: white;
+}
+
+.shop-card .shop-footer {
+  bottom: 0;
+  position: absolute;
+  width: 100%;
+  height: 100px;
+  background-color: rgb(26, 36, 86);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.shop-card .shop-footer .total {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+
+.shop-card .shop-footer .total .total-p {
+  margin-right: 105px;
+}
+
+.shop-img {
+  width: 100px;
+  height: 100px;
+}
+.shop-img img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.shop-item {
+  margin: 30px;
+  display: flex;
+  padding-bottom: 30px;
+  border-bottom: 1px solid;
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+}
+
+.shop-card .shop-info {
+  margin-left: 20px;
+}
+
+.shop-card .item-price {
+  margin-top: 12px;
+}
+
+.shop-card .item-amount {
+  margin-top: 20px;
+}

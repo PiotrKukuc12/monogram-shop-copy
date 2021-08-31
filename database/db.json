@@ -1,0 +1,68 @@
+{
+    "products" : [
+        {
+            "id":1, "title": "Traveler console",
+             "short_description" : "Ideal for music & audio. Adaptable to any workflow",
+             "long_description" : "When your work takes you everywhere, the Traveler Console is for you. Enjoy flexibility and efficiency with your go-to controls at your fingertips. This minimalist console allows you to do more with less and is expandable as needed.",
+             "first_image": "https://monogramcc.com/static/bc98d5a6d27555d4e7e6e0c4254c9430/e7405/Packaging_TravelerClosedBracket1_Monogram_May20204517_d3899632-1a43-425f-a16a-1d5b968810c7.webp",
+             "second_image": "https://monogramcc.com/static/d50a2027dd3958ce04f8940b351803cb/e7405/Consoles_TravelerBracket1_Monogram_May2020_4561_30a35bd4-01b4-44db-894a-e06162d8ab77.webp",
+             "price": "399.00"
+        },
+        {
+            "id":2, "title": "Studio console",
+            "short_description" : "Ideal for photo & video. Adaptable to any workflow",
+            "long_description" : "The Studio Console is optimized for diverse photo editing workflows making you more and more efficient with each adjustment you make. Easily switch between sorting, developing, retouching, blending, and color correcting with built-in navigation buttons. Flexible enough to be adapted for video editing and more for the multi-skilled content creator in you.",
+            "first_image": "https://monogramcc.com/static/8f0b713d1a06868ecabbcb9ae9c1d481/e7405/Packaging_StudioClosedBracket1_Monogram_May20204507_548446cb-17c9-4fc2-8b12-ae1b1a308a7e.webp",
+            "second_image": "https://monogramcc.com/static/597efb990bfa224e33195c3c3630bda5/e7405/Consoles_StudioBracket1_Monogram_May2020_4558_53685b21-b09f-45b0-85a2-180d6acfafac.webp",
+            "price": "499.00"
+        },
+        {
+            "id":3, "title": "Master console",
+            "short_description" : "Ideal for Virtual Production & Film. Adaptable to any workflow",
+            "long_description" : "This all-access kit is the ultimate video editing, color grading, and 3D design tool. Three tactile Orbiter modules with oversized encoder rings are the perfect asset for multi-dimensional adjustments, timeline navigation, or color grading. Experience the better editing difference of simple yet powerful, purpose-built controls.",
+            "first_image": "https://monogramcc.com/static/d423769a93e5991b3b9ab0c9fb13b1c3/e7405/Packaging_MasterClosedBracket1_Monogram_May20204494.webp",
+            "second_image": "https://monogramcc.com/static/8be0916bd14b6de80a0e4cee90f5bb36/e7405/Consoles_MasterBracket1_Monogram_May2020_4555.webp",
+            "price": "799.00"
+        },
+        {
+            "id":4, "title": "Monogram Core",
+            "short_description" : "Ideal for Virtual Production & Film. Adaptable to any workflow",
+            "long_description" : "The small but mighty brain that powers Creative Console. Build your own custom console by combining Monogram add-on modules with the Core.",
+            "first_image": "https://monogramcc.com/static/b4d8a93ec367669b82cb2bf02a13803f/e7405/Packaging_CoreBracket1_Monogram_May20204545_ccb8b10a-0772-448b-9857-a14fa83bd5b7.webp",
+            "second_image": "https://monogramcc.com/static/8be0916bd14b6de80a0e4cee90f5bb36/e7405/Consoles_MasterBracket1_Monogram_May2020_4555.webp",
+            "price": "149.00"
+        },
+        {
+            "id":5, "title": "Orbiter Module",
+            "short_description" : "Ideal for Virtual Production & Film. Adaptable to any workflow",
+            "long_description" : "The small but mighty brain that powers Creative Console. Build your own custom console by combining Monogram add-on modules with the Core.",
+            "first_image": "https://monogramcc.com/static/b4d8a93ec367669b82cb2bf02a13803f/e7405/Packaging_CoreBracket1_Monogram_May20204545_ccb8b10a-0772-448b-9857-a14fa83bd5b7.webp",
+            "second_image": "https://monogramcc.com/static/683b5945e4051133a96060b9e0c17bba/e7405/Consoles_CoreBracket1_Monogram_May2020_4578_6683fd8e-be63-45bb-9fbd-dd82a4838db8.webp",
+            "price": "149.00"
+        },
+        {
+            "id":6, "title": "Orbiter Module",
+            "short_description" : "Ideal for Virtual Production & Film. Adaptable to any workflow",
+            "long_description" : "The small but mighty brain that powers Creative Console. Build your own custom console by combining Monogram add-on modules with the Core.",
+            "first_image": "https://monogramcc.com/static/b4d8a93ec367669b82cb2bf02a13803f/e7405/Packaging_CoreBracket1_Monogram_May20204545_ccb8b10a-0772-448b-9857-a14fa83bd5b7.webp",
+            "second_image": "https://monogramcc.com/static/683b5945e4051133a96060b9e0c17bba/e7405/Consoles_CoreBracket1_Monogram_May2020_4578_6683fd8e-be63-45bb-9fbd-dd82a4838db8.webp",
+            "price": "149.00"
+        },
+        {
+            "id":7, "title": "Orbiter Module",
+            "short_description" : "Ideal for Virtual Production & Film. Adaptable to any workflow",
+            "long_description" : "The small but mighty brain that powers Creative Console. Build your own custom console by combining Monogram add-on modules with the Core.",
+            "first_image": "https://monogramcc.com/static/b4d8a93ec367669b82cb2bf02a13803f/e7405/Packaging_CoreBracket1_Monogram_May20204545_ccb8b10a-0772-448b-9857-a14fa83bd5b7.webp",
+            "second_image": "https://monogramcc.com/static/683b5945e4051133a96060b9e0c17bba/e7405/Consoles_CoreBracket1_Monogram_May2020_4578_6683fd8e-be63-45bb-9fbd-dd82a4838db8.webp",
+            "price": "149.00"
+        },
+        {
+            "id":8, "title": "Orbiter Module",
+            "short_description" : "Ideal for Virtual Production & Film. Adaptable to any workflow",
+            "long_description" : "The small but mighty brain that powers Creative Console. Build your own custom console by combining Monogram add-on modules with the Core.",
+            "first_image": "https://monogramcc.com/static/b4d8a93ec367669b82cb2bf02a13803f/e7405/Packaging_CoreBracket1_Monogram_May20204545_ccb8b10a-0772-448b-9857-a14fa83bd5b7.webp",
+            "second_image": "https://monogramcc.com/static/683b5945e4051133a96060b9e0c17bba/e7405/Consoles_CoreBracket1_Monogram_May2020_4578_6683fd8e-be63-45bb-9fbd-dd82a4838db8.webp",
+            "price": "149.00"
+        }
+    ]
+}

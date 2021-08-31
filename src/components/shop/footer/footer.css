@@ -1,0 +1,35 @@
+.footer {
+  background-color: rgb(26, 36, 86);
+  width: fit-content;
+  width: auto;
+  margin-top: 100px;
+  height: 370px;
+}
+
+.footer .links {
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  margin-left: 110px;
+}
+
+.footer .footer-item {
+  color: rgb(239, 194, 179);
+  margin-top: 50px;
+  margin-right: 100px;
+}
+
+.footer .footer-item ul {
+  list-style: none;
+  font-size: 0.8rem;
+}
+
+.footer .footer-item li:nth-child(1) {
+  margin-bottom: 20px;
+  font-weight: 700;
+}
+
+.footer .footer-item li {
+  margin: 5px;
+  word-spacing: 7px;
+}
